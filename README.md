@@ -39,7 +39,7 @@ Para configurar o banco, pasta:
 - Realizar o insert:
 
 `
-CREATE TABLE `aulas_uemg`.`fornecedor` (
+CREATE TABLE `aulasuemg`.`fornecedor` (
   `idfornecedor` INT NOT NULL AUTO_INCREMENT,
   `nome_fornecedor` VARCHAR(45) NOT NULL,
   `cnpj` VARCHAR(25) NOT NULL,
