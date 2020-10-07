@@ -6,7 +6,7 @@ ________
 
 
 ## Documentação da API via Postman
-- https://documenter.getpostman.com/view/10246660/TVCmR4ic
+- https://documenter.getpostman.com/view/10246660/TVRhc9U4
 
 ## Demonstração
 Para rodar o servidor é necessário ter o Node/Npm configurados e possuir uma instância mysql rodando.
@@ -35,7 +35,7 @@ Para rodar o servidor é necessário ter o Node/Npm configurados e possuir uma i
 Para configurar o banco, pasta:
 /src/database/connection.js
 
-- Criar a tabela "avaliacao-guilherme"
+- Criar a tabela "aulasuemg"
 - Realizar o insert:
 
 `
@@ -52,7 +52,7 @@ CREATE TABLE `aulas_uemg`.`fornecedor` (
         
         - Guilherme Gomes Noronha
 
-#### Como Avaliação de Conteúdo para a matéria de Programação para Dispositivos Móveis, da turma do 9º Período de Computação na UEMG Divinópolis - Noturno
+#### Como Avaliação de Conteúdo para a matéria de Tópicos Especiais em Engenharia de Computação, da turma do 9º Período de Computação na UEMG Divinópolis - Noturno
 
 
 
