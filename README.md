@@ -38,14 +38,14 @@ Para configurar o banco, pasta:
 - Criar a tabela "aulasuemg"
 - Realizar o insert:
 
-`
+``
 CREATE TABLE `aulasuemg`.`fornecedor` (
   `idfornecedor` INT NOT NULL AUTO_INCREMENT,
   `nome_fornecedor` VARCHAR(45) NOT NULL,
   `cnpj` VARCHAR(25) NOT NULL,
   `contato` VARCHAR(45) NULL,
   PRIMARY KEY (`idfornecedor`));
-`
+``
 
 
 ## Desenvolvido Por 
