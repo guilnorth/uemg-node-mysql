@@ -25,14 +25,8 @@ Para rodar o servidor é necessário ter o Node/Npm configurados e possuir uma i
         $ yarn start OU npm start
 
 
-Crie um arquivo .env na raiz com suas configurações de banco:
-DB_NAME=
-DB_PORT=
-DB_USER=
-DB_PASS=
-DB_ROOT_PASS=
-DB_HOST=
 
+**Edite o arquivo .env na raiz com suas configurações de banco:**
 
 **Servidor Express disponível em:**
 - http://localhost:3000

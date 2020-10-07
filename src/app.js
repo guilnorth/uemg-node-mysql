@@ -2,6 +2,6 @@
 
 const app = require('./server/server');
 
-app.listen(3000, () => {
-    console.log("server online: 3000");
+app.listen(process.env.PORT || 8080, () => {
+    console.log(`server online: ${process.env.PORT || '8080'}`);
 });
